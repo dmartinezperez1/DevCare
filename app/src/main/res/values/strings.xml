@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="battery_status">Battery Status</string>
+    <string name="memory_status">Memory Status</string>
+    <string name="cpu_status">CPU Status</string>
+    <string name="device_care">Device Care</string>
+    <string name="todo">TODO</string>
+    <string name="start">Start</string>
+    <string name="check_battery">Check Battery</string>
+    <string name="check_memory">Check Memory</string>
+    <string name="check_cpu">Check CPU</string>
+    <string name="back_home">Back Home</string>
+    <string name="battery_page">Battery Overview</string>
+    <string name="memory_page">Memory Overview</string>
+    <string name="cpu_page">Current Processes</string>
+    <string name="_0">0</string>
+    <string name="battery_level">Battery Level:</string>
+    <string name="battery_health">Battery Health:</string>
+    <string name="charging_status">Charging Status:</string>
+    <string name="Bathealth">Null</string>
+    <string name="charge">Null</string>
+    <string name="Memory_Info">null</string>
+    <string name="process_info">Process info</string>
+    <string name="kill_unused_processes">Kill Unused Processes</string>
+</resources>
